@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-const PRODUCT string = "Canada"
+const PRODUCT string = "iphone"
 const PRICE = 500
 
 func main() {
